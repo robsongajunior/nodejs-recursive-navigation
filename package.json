@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-recursive-navigation",
+  "version": "0.0.1",
+  "description": "A simple and recursive algorithm folder navigation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robsongajunior/nodejs-recursive-navigation.git"
+  },
+  "keywords": [
+    "nodejs",
+    "recursive",
+    "folder",
+    "fs",
+    "readdir"
+  ],
+  "author": "@robsongajunior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robsongajunior/nodejs-recursive-navigation/issues"
+  },
+  "homepage": "https://github.com/robsongajunior/nodejs-recursive-navigation#readme"
+}
